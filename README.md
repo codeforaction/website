@@ -35,3 +35,11 @@ bin/dev
 ```
 
 This will run Rails with PostgreSQL and esbuild in development mode.
+
+---
+
+## Running Tests
+
+```bash
+bundle exec rspec
+```
