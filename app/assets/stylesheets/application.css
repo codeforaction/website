@@ -8,3 +8,18 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+ .full-page-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  flex-direction: column;
+}
+
+ .logo {
+  max-width: 300px;
+  margin-inline: auto;
+  width: 100%;
+}
